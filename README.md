@@ -1,104 +1,46 @@
-# Tyler Waugh - Personal Portfolio
+Tyler Waugh
+155 Alex St, New Orleans, LA 70114  |  (225) 375-1261  |  tylerwaugh774@gmail.com
+PROFESSIONAL SUMMARY
 
-Welcome to my portfolio! I'm a Chemistry professional with advanced academic training and strong laboratory expertise. I specialize in analytical chemistry, experimental design, and scientific data interpretation, with a passion for ensuring accuracy and rigor in scientific work.
+Results-driven research professional with over five years of industry experience in analytical problem-solving, technical writing, and applied research. Adept at synthesizing complex information, designing methodologies, and producing rigorous documentation. Experienced collaborating with cross-functional teams on data-intensive projects and delivering clear, reproducible findings. Eager to contribute domain expertise to cutting-edge AI research in a flexible, remote capacity.
+PROFESSIONAL EXPERIENCE
 
-## 🎯 About Me
+Senior Research Analyst	2018 – Present
+Louisiana Department of Health -Baton Rouge, LA
+•	Conduct systematic literature reviews and synthesize findings from peer-reviewed sources to inform statewide policy recommendations and program evaluations.
+•	Design and implement data collection methodologies, ensuring reproducibility and alignment with federal and state reporting standards.
+•	Produce technical reports, white papers, and briefings for both expert and lay audiences, translating complex datasets into actionable insights.
+•	Collaborate with multidisciplinary teams including epidemiologists, statisticians, and public health officials to evaluate program effectiveness.
+•	Apply statistical analysis tools to large administrative datasets, identifying trends and anomalies to support evidence-based decision-making.
+•	Mentor junior analysts on research design, data quality assurance, and professional documentation standards.
+Research Associate	2014 – 2018
+Tulane University School of Public Health -New Orleans, LA
+•	Supported faculty-led research projects through literature synthesis, survey design, and qualitative and quantitative data analysis.
+•	Contributed to grant writing efforts, drafting sections on methodology, significance, and evaluation plans for federal funding submissions.
+•	Assisted in the preparation of peer-reviewed manuscripts, coordinating revision cycles and ensuring adherence to journal formatting guidelines.
+•	Facilitated undergraduate and graduate seminars, providing instructional support and feedback on research methodology assignments.
+•	Maintained detailed research logs and documentation protocols to ensure full reproducibility of experimental procedures and findings.
+Data & Program Analyst	2011 – 2014
+Louisiana Office of Community Development -Baton Rouge, LA
+•	Managed and analyzed large-scale community needs datasets to inform resource allocation and program planning decisions.
+•	Developed standardized reporting templates and evaluation frameworks used across regional offices statewide.
+•	Compiled and presented findings to agency leadership, community stakeholders, and state legislators.
+•	Coordinated with external research consultants to align internal analysis with broader state and federal research initiatives.
+EDUCATION
 
-Chemistry professional with a Master's degree in Chemistry and extensive laboratory experience. I combine deep scientific expertise with strong analytical and evaluation skills to deliver rigorous scientific work. Seeking to contribute chemistry expertise to AI model training by evaluating AI-generated scientific responses, developing chemistry problems, and ensuring factual accuracy and scientific rigor.
+Master of Public Health (MPH) -Epidemiology & Biostatistics	2013
+Louisiana State University Health Sciences Center -New Orleans, LA
+•	Graduate research focused on community health data analysis and applied epidemiological methods.
+Bachelor of Science -Biology & Pre-Health Studies	2011
+University of New Orleans -New Orleans, LA
+•	Dean's List; research assistant in the Department of Biological Sciences.
+High School Diploma	2009
+Louisiana High School -Louisiana
+CORE COMPETENCIES & SKILLS
 
-## 📍 Location
-New Orleans, LA 70114 | [tylerwaugh774@gmail.com](mailto:tylerwaugh774@gmail.com)
-
-## 🎓 Education
-
-### Master of Science (M.S.) in Chemistry
-**Southeastern Louisiana University** | *Graduated: September 2025*
-
-### Bachelor of Science (B.S.) in Chemistry
-**Southeastern Louisiana University** | *Graduated: 2022*
-- GPA: 2.7
-
-## 💼 Professional Experience
-
-### Laboratory Technician
-**Benjamin Franklin High School** - New Orleans, LA | *2024 - Present*
-
-- Prepare laboratory equipment, reagents, and experimental setups for chemistry laboratory sessions
-- Assist instructors and students with chemical experiments and laboratory methodologies
-- Maintain compliance with laboratory safety regulations and proper chemical handling procedures
-- Monitor experimental processes and record laboratory data for analysis and documentation
-- Maintain chemical inventories and ensure proper storage and labeling of laboratory materials
-- Support accurate scientific documentation for laboratory activities
-
-### Laboratory Intern
-**Southeastern Louisiana University - School Science Laboratory** | *2022 - 2024*
-
-- Assisted instructors in preparing laboratory demonstrations and chemistry experiments
-- Supported the setup and execution of practical laboratory experiments for students
-- Recorded experimental observations and assisted in analyzing laboratory data
-- Maintained laboratory equipment and ensured chemicals were stored according to safety protocols
-- Guided students through experimental procedures and safe laboratory practices
-
-## 🔬 Research Experience
-
-### Graduate Research - Analytical Chemistry
-**Southeastern Louisiana University** | *2024 – 2025*
-
-- Conducted research involving analytical techniques for chemical identification and reaction analysis
-- Designed and evaluated chemistry-based problems and experimental models for scientific interpretation
-- Collected and analyzed laboratory data using standard analytical methods
-- Interpreted experimental results to support accurate chemical conclusions
-- Documented findings using structured scientific reporting methods
-
-## 💡 Core Competencies
-
-### Chemistry Expertise
-- Analytical Chemistry
-- Chemical Reaction Mechanisms
-- Experimental Design
-- Quantitative and Qualitative Chemical Analysis
-- Chemical Data Interpretation
-- Laboratory Experimentation
-
-### Scientific Evaluation & Analysis
-- Scientific Content Evaluation
-- Factual Accuracy Assessment
-- Scientific Reasoning and Problem Solving
-- Ranking and Evaluating Technical Responses
-- Development of Chemistry-Based Questions
-- AI and Analytical Evaluation Skills
-
-### Professional Skills
-- Scientific Documentation and Reporting
-- Laboratory Safety and Compliance
-- Chemical Handling and Preparation
-- Critical Thinking and Problem Solving
-- Independent Research and Analysis
-- Remote Collaboration
-- Strong attention to detail
-- Complex concept interpretation and communication
-- Laboratory and research environment expertise
-
-## 🌟 Key Strengths
-
-- **Scientific Rigor**: Meticulous attention to detail when evaluating technical and scientific information
-- **Communication**: Ability to interpret complex chemistry concepts and communicate them clearly
-- **Independence**: Experience working independently in laboratory and research environments
-- **Technical Review**: Skilled at reviewing scientific content for accuracy and clarity
-- **Laboratory Expertise**: Comprehensive knowledge of laboratory protocols, safety, and best practices
-
-## 🔗 Connect With Me
-
-- **GitHub**: [@tylerwaugh774-alt](https://github.com/tylerwaugh774-alt)
-- **Email**: [tylerwaugh774@gmail.com](mailto:tylerwaugh774@gmail.com)
-- **Location**: New Orleans, LA
-
----
-
-*Portfolio Last Updated: May 2026*
-
-### Areas of Interest
-- AI model training and scientific content evaluation
-- Analytical chemistry applications
-- Chemistry education and laboratory instruction
-- Scientific research and data interpretation
+•	Research Design & Methodology: Experiment design, hypothesis testing, mixed-methods research, and benchmarking
+•	Technical & Scientific Writing: Peer-reviewed manuscripts, grant proposals, technical reports, and reproducible documentation
+•	Data Analysis: Statistical modeling, dataset curation, quality assurance, and trend identification
+•	Literature Synthesis: Systematic reviews, evidence mapping, and critical appraisal of primary and secondary sources
+•	AI & Emerging Technology: Familiarity with AI/ML evaluation concepts, data pipeline workflows, and model benchmarking principles
+•	Independent Work & Communication: Proven ability to manage asynchronous, project-based deliverables with minimal supervision
